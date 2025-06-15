@@ -25,6 +25,7 @@ dependencies = [
     "tensorflow>=2.19.0",
     "torchaudio>=2.7.0",
     "torchvision>=0.22.0",
+    "torchvista>=0.1.5",
     "wheel>=0.45.1",
     "xgboost>=3.0.2",
 ]
